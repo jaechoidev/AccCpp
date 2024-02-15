@@ -1,6 +1,10 @@
 #include <iostream>
 
+
+using namespace std;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "This (\") is a quote, and this (\\) is a backslash."  << endl;
+    // /* test   /*  */  working?*/
+
     return 0;
 }
